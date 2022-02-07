@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeWB6GB8WUWeXzWYn3MDJOwrAPpyM3u6si1I/GiAKRbhq4krFjmKwIk14wqfyOvTDdvaDyHOuAQaa6X/aGYWBQ==",
+  "success": true,
+  "projectFilePath": "F:\\valuelab\\TechnicalAssessment\\TechnicalAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sudhir\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
